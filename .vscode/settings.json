@@ -16,6 +16,7 @@
     "*.HLA*": "hlasm",
     "stdlib.h": "c",
     "unistd.h": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "freertos.h": "c"
   }
 }
